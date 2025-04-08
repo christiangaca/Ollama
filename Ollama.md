@@ -1,3 +1,5 @@
+# Introducción a Ollama y los LLMs libres.
+
 Esto es un documento que recoge una introducción a Ollama, el proceso de instalación y su ejecución, tanto de forma local como mediante una interfaz gráfica, tal y como ofrecen los clientes de IA más reconocidos.
 
 **1. Introducción**
