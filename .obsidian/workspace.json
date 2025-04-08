@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "2ea242dc7ba4f21a",
+    "type": "split",
+    "children": [
+      {
+        "id": "059a013aa4c4a014",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ec504d413bc713c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introducción a Ollama y los LLMs libres.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introducción a Ollama y los LLMs libres"
+            },
+            "group": "bd28100e3c84454d"
+          }
+        ]
+      },
+      {
+        "id": "fd1d9b1d4ca9a1a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a4103c4d87f85d3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Introducción a Ollama y los LLMs libres.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Gráfico de Introducción a Ollama y los LLMs libres"
+            },
+            "group": "bd28100e3c84454d"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1648e07ffddeea4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa7c9fa8c64f4aaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2864bab98c1b8bf4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "ae32e3b5177d5a4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "71f95e057ca1a709",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c72d15cd9099fc4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3d18584191e2227",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f1d098cb653aa33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introducción a Ollama y los LLMs libres.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Introducción a Ollama y los LLMs libres"
+            }
+          },
+          {
+            "id": "808c09995d38c72d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Introducción a Ollama y los LLMs libres.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Introducción a Ollama y los LLMs libres"
+            }
+          },
+          {
+            "id": "383c781ff2e245fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5c52c61bceb02dd6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Introducción a Ollama y los LLMs libres.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Introducción a Ollama y los LLMs libres"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "808c09995d38c72d",
+  "lastOpenFiles": [
+    "Open WebUI.md",
+    "Open [WebUI]().md",
+    "Introducción a Ollama y los LLMs libres.md",
+    "Sin título.md",
+    "Requerimientos.md",
+    "Ollama.md"
+  ]
+}
